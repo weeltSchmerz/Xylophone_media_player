@@ -17,9 +17,9 @@ This project also includes a WebView to open YouTube in mobile view.
 
 ## Screenshots
 
+![Xylophone](Screenshot_1773474046.png)
 
-
-
+![youtube webview](Screenshot_1773474027.png)
 ---
 
 ## Getting Started
@@ -33,7 +33,7 @@ This project also includes a WebView to open YouTube in mobile view.
 ### Run the App
 
 1. Clone or download this repository
-2. Move the project to a folder **without spaces in the path** (e.g., `E:\flutter_projects\xylophone_media_player`)
+2. Move the project to a folder 
 3. Install dependencies:
 
 ```bash
